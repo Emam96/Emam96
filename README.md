@@ -1,3 +1,3 @@
-![dino](https://i.pinimg.com/originals/49/93/10/499310bfae5a830273b2e23a926d984f.gif)
+![dino](https://github.com/Emam96/reading-notes/blob/main/ME1.PNG?raw=true)
 ### Hi there 👋,, make yourself at home
 
