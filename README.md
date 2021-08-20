@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emam96&show_icons=true&theme=dark)" alt="ABSphreak's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Emam96&theme=dark&show_icons=true)">
 <div/>
 
   
